@@ -18,12 +18,4 @@
 - Personal Flutter apps to sharpen UI/UX skills  
 - Exploring backend integration with Firebase and Node.js  
 
-## 📫 Let's Connect!
-- 💼 [Upwork Profile](#) *(Insert your Upwork link)*
-- 📷 [Instagram](#) *(Optional)*
-- 💌 saad@example.com *(Replace with real email or keep private)*
-- 🌍 [Portfolio / Website](#) *(If you have one)*
-
----
-
 🧠 *"Learning never exhausts the mind – it only fuels creativity."*  
